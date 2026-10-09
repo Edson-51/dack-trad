@@ -6,7 +6,7 @@ Application 100 % statique (un seul fichier `index.html`), compatible **Edge, Ch
 
 ## Mise en ligne sur GitHub Pages
 
-1. Crée un dépôt GitHub (ex. `dack-trad`) et envoie-y les fichiers de ce dossier (`index.html`, `README.md`, `.nojekyll`).
+1. Crée un dépôt GitHub (ex. `dack-trad`) et envoie-y les fichiers de ce dossier (`index.html`, `logo.ico`, `apple-touch-icon.png`, `README.md`, `.nojekyll`).
 2. Dans le dépôt : **Settings → Pages → Build and deployment**.
 3. *Source* : **Deploy from a branch** · Branch : **main** · Dossier : **/ (root)** → **Save**.
 4. Après ~1 minute, l'application est disponible sur `https://<ton-compte>.github.io/<nom-du-depot>/`.
